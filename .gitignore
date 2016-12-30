@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Windows image file caches
+Thumbs.db
+
+/test_celttic/Library
+/test_celttic/Temp
+/test_celttic.vs
+/test_celttic*.sln
+/test_celttic*.csproj
+
