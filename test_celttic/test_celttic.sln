@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_celttic.CSharp", "test_celttic.CSharp.csproj", "{48A511AA-F8DB-80A9-CC1A-07EEE6030601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_celttic.CSharp.Editor", "test_celttic.CSharp.Editor.csproj", "{CACEC559-6763-F213-D733-A8100D3568DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A511AA-F8DB-80A9-CC1A-07EEE6030601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A511AA-F8DB-80A9-CC1A-07EEE6030601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A511AA-F8DB-80A9-CC1A-07EEE6030601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A511AA-F8DB-80A9-CC1A-07EEE6030601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACEC559-6763-F213-D733-A8100D3568DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACEC559-6763-F213-D733-A8100D3568DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACEC559-6763-F213-D733-A8100D3568DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACEC559-6763-F213-D733-A8100D3568DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
